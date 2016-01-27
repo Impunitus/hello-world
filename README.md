@@ -1,2 +1,5 @@
 # hello-world
-GitHub intro
+
+Caleb Butcher
+Student @ Suny Brockport
+Graduating Spring 2017
